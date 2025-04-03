@@ -103,7 +103,7 @@
       "style": {
         "outline": {
           "size": 64,
-          "color": "#8cb344"
+          "color": "#222222"
         }
       }
     },
@@ -125,7 +125,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       }
     },
@@ -181,8 +181,8 @@
       "name": "КЕТАМІН..",
       "type": "text",
       "rect": {
-        "x": 115,
-        "y": 570,
+        "x": 80,
+        "y": 470,
         "w": 4170,
         "h": 351,
         "r": 0
@@ -193,7 +193,7 @@
       "link": "",
       "content": "КЕТАМІН",
       "format": {
-        "size": 250,
+        "size": 400,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -225,7 +225,7 @@
       "type": "text",
       "rect": {
         "x": 150,
-        "y": 870,
+        "y": 890,
         "w": 4500,
         "h": 112,
         "r": 0
@@ -359,13 +359,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#8cb344"
+          "color": "#222222"
         }
       }
     },
@@ -387,7 +387,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       }
     },
@@ -538,13 +538,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#8cb344"
+          "color": "#222222"
         }
       }
     },
@@ -566,7 +566,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       }
     },
@@ -717,13 +717,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#8cb344"
+          "color": "#222222"
         }
       }
     },
@@ -745,7 +745,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       }
     },
@@ -896,13 +896,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#8cb344"
+          "color": "#222222"
         }
       }
     },
@@ -924,7 +924,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       }
     },
@@ -1075,13 +1075,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#8cb344"
+          "color": "#222222"
         }
       }
     },
@@ -1103,7 +1103,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       }
     },
@@ -1255,7 +1255,7 @@
         "align": "left",
         "bold": true,
         "italic": false,
-        "underline": false,
+        "underline": true,
         "uppercase": false,
         "linespace": 0,
         "letterspace": 0,
@@ -1265,13 +1265,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#8cb344",
+          "color": "#222222",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1366,7 +1366,7 @@
         "align": "left",
         "bold": true,
         "italic": false,
-        "underline": false,
+        "underline": true,
         "uppercase": false,
         "linespace": -0.22,
         "letterspace": 0,
@@ -1376,13 +1376,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#8cb344"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#8cb344",
+          "color": "#222222",
           "punch": false,
           "distance": 0,
           "direction": 305

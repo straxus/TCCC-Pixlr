@@ -103,7 +103,7 @@
       "style": {
         "outline": {
           "size": 64,
-          "color": "#016837"
+          "color": "#222222"
         }
       }
     },
@@ -114,7 +114,7 @@
         "x": 150,
         "y": 570,
         "w": 6913,
-        "h": 870,
+        "h": 890,
         "r": 0
       },
       "opacity": 1,
@@ -125,7 +125,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       }
     },
@@ -165,9 +165,9 @@
       "name": "МЕЛОКСИКАМ..",
       "type": "text",
       "rect": {
-        "x": 115,
-        "y": 570,
-        "w": 4170,
+        "x": 80,
+        "y": 470,
+        "w": 4900,
         "h": 351,
         "r": 0
       },
@@ -177,7 +177,7 @@
       "link": "",
       "content": "МЕЛОКСИКАМ",
       "format": {
-        "size": 250,
+        "size": 400,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -209,7 +209,7 @@
       "type": "text",
       "rect": {
         "x": 150,
-        "y": 870,
+        "y": 890,
         "w": 4500,
         "h": 573,
         "r": 0
@@ -343,13 +343,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#016837"
+          "color": "#222222"
         }
       }
     },
@@ -371,7 +371,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       }
     },
@@ -522,13 +522,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#016837"
+          "color": "#222222"
         }
       }
     },
@@ -550,7 +550,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       }
     },
@@ -701,13 +701,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#016837"
+          "color": "#222222"
         }
       }
     },
@@ -729,7 +729,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       }
     },
@@ -880,13 +880,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#016837"
+          "color": "#222222"
         }
       }
     },
@@ -908,7 +908,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       }
     },
@@ -1059,13 +1059,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#016837"
+          "color": "#222222"
         }
       }
     },
@@ -1087,7 +1087,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       }
     },
@@ -1239,7 +1239,7 @@
         "align": "left",
         "bold": true,
         "italic": false,
-        "underline": false,
+        "underline": true,
         "uppercase": false,
         "linespace": 0,
         "letterspace": 0,
@@ -1249,13 +1249,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#016837",
+          "color": "#222222",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1350,7 +1350,7 @@
         "align": "left",
         "bold": true,
         "italic": false,
-        "underline": false,
+        "underline": true,
         "uppercase": false,
         "linespace": -0.22,
         "letterspace": 0,
@@ -1360,13 +1360,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#016837"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#016837",
+          "color": "#222222",
           "punch": false,
           "distance": 0,
           "direction": 305

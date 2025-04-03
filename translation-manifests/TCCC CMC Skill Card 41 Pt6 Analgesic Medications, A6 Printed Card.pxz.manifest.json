@@ -103,7 +103,7 @@
       "style": {
         "outline": {
           "size": 64,
-          "color": "#1597d5"
+          "color": "#222222"
         }
       }
     },
@@ -125,7 +125,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       }
     },
@@ -146,12 +146,12 @@
       "content": "meds.png"
     },
     {
-      "name": "ОНДАНСЕТРОН ..",
+      "name": "ОНДАНСЕТРОН..",
       "type": "text",
       "rect": {
-        "x": 115,
-        "y": 570,
-        "w": 4170,
+        "x": 80,
+        "y": 470,
+        "w": 4900,
         "h": 351,
         "r": 0
       },
@@ -159,9 +159,9 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ОНДАНСЕТРОН ",
+      "content": "ОНДАНСЕТРОН",
       "format": {
-        "size": 250,
+        "size": 400,
         "align": "left",
         "bold": true,
         "italic": false,
@@ -193,7 +193,7 @@
       "type": "text",
       "rect": {
         "x": 150,
-        "y": 870,
+        "y": 890,
         "w": 4600,
         "h": 112,
         "r": 0
@@ -327,13 +327,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#1597d5"
+          "color": "#222222"
         }
       }
     },
@@ -355,7 +355,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       }
     },
@@ -506,13 +506,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#1597d5"
+          "color": "#222222"
         }
       }
     },
@@ -534,7 +534,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       }
     },
@@ -685,13 +685,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#1597d5"
+          "color": "#222222"
         }
       }
     },
@@ -713,7 +713,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       }
     },
@@ -864,13 +864,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#1597d5"
+          "color": "#222222"
         }
       }
     },
@@ -892,7 +892,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       }
     },
@@ -1043,13 +1043,13 @@
         "radii": 50,
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 1,
-          "color": "#1597d5"
+          "color": "#222222"
         }
       }
     },
@@ -1071,7 +1071,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       }
     },
@@ -1223,7 +1223,7 @@
         "align": "left",
         "bold": true,
         "italic": false,
-        "underline": false,
+        "underline": true,
         "uppercase": false,
         "linespace": 0,
         "letterspace": 0,
@@ -1233,13 +1233,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#1597d5",
+          "color": "#222222",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -1334,7 +1334,7 @@
         "align": "left",
         "bold": true,
         "italic": false,
-        "underline": false,
+        "underline": true,
         "uppercase": false,
         "linespace": -0.22,
         "letterspace": 0,
@@ -1344,13 +1344,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#1597d5"
+          "value": "#222222"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#1597d5",
+          "color": "#222222",
           "punch": false,
           "distance": 0,
           "direction": 305
