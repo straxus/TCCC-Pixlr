@@ -29,11 +29,77 @@
       }
     },
     {
+      "name": "Card Left Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#8cb344"
+        }
+      }
+    },
+    {
+      "name": "Card Right Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 7113,
+        "y": 0,
+        "w": 100,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#8cb344"
+        }
+      }
+    },
+    {
+      "name": "Card Bottom Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 4550,
+        "w": 7213,
+        "h": 550,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#8cb344"
+        }
+      }
+    },
+    {
       "name": "CMC Logo",
       "type": "image",
       "rect": {
         "x": 100,
-        "y": 20,
+        "y": 0,
         "w": 870,
         "h": 500,
         "r": 0
@@ -83,7 +149,7 @@
       "type": "shape",
       "rect": {
         "x": 100,
-        "y": 520,
+        "y": 500,
         "w": 7013,
         "h": 4480,
         "r": 0
@@ -93,8 +159,7 @@
       "visible": true,
       "link": "",
       "format": {
-        "variant": "rounded",
-        "radii": 50,
+        "variant": "rectangle",
         "fill": {
           "type": "color",
           "value": "#ffffff"
@@ -102,19 +167,19 @@
       },
       "style": {
         "outline": {
-          "size": 64,
+          "size": 40,
           "color": "#222222"
         }
       }
     },
     {
-      "name": "Card Header Block",
+      "name": "Card Header Bottom Line",
       "type": "shape",
       "rect": {
-        "x": 150,
-        "y": 570,
-        "w": 6913,
-        "h": 530,
+        "x": 100,
+        "y": 1100,
+        "w": 7013,
+        "h": 40,
         "r": 0
       },
       "opacity": 1,
@@ -200,20 +265,20 @@
         "underline": false,
         "uppercase": false,
         "linespace": 0,
-        "letterspace": 0,
+        "letterspace": 0.1,
         "font": {
           "name": "Verdana",
           "content": "verdana.woff"
         },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#ffffff",
+          "color": "#000000",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -250,13 +315,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#ffffff",
+          "color": "#000000",
           "punch": false,
           "distance": 0,
           "direction": 305
@@ -293,13 +358,13 @@
         },
         "fill": {
           "type": "color",
-          "value": "#ffffff"
+          "value": "#000000"
         }
       },
       "style": {
         "outline": {
           "size": 0.1,
-          "color": "#ffffff",
+          "color": "#000000",
           "punch": false,
           "distance": 0,
           "direction": 305
