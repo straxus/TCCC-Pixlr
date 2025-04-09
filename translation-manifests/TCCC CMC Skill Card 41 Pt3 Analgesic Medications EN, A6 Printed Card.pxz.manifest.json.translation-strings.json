@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANALGESIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "FENTANYL",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Potent narcotic (opiate) agonist",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "For mild to moderate pain management in a casualty that IS NOT in shock or in respiratory distress and IS NOT at significant risk of developing either condition.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "800 mcg transmucosal, may repeat after 15 min;",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Transmucosal – between the cheek and gum (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Fentanyl allergy, significant hypotension, MAO inhibitors, myasthenia gravis, potential benefits may warrant use in pregnant women despite potential risks if the alternative is worse",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Sedation, euphoria, bradycardia, hypotension, circulatory depression, miosis, blurred vision, nausea, vomiting, laryngospasm, bronchoconstriction or respiratory depression",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Alcohol and other CNS depressants potentiate effects, MAOIs may precipitate hypertensive crisis",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "15-60 sec (<transmucosal)/20 sec to 4 min/1-2 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Casualty weapons, communications and sensitive equipment should be secured; alterations in mental status can adversely affect assessment for shock and/or traumatic brain injury – use AVPU method to establish baseline prior to medication administration; monitor airway, breathing, and circulation closely – be prepared to administer naloxone, if indicated.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

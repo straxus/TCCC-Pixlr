@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANALGESIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "KETAMINE",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Nonbarbiturate anesthetic",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "For moderate to severe pain management in a casualty that IS in hemorrhagic shock or in respiratory distress or IS at significant risk of developing either condition.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "50-100 mg (0.5-1 mg/kg) IN, repeat q 20-30 min prn;\n50-100 mg (0.5-1 mg/kg) IM, repeat q 20-30 min prn;\n20-30 mg (or 0.2-0.3 mg/kg) slow IV or IO push, repeat q 20 min prn",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IN, IM, IO & IV",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Head injury (may worsen severe TBI), hypersensitivity to ketamine, considered relatively safe in pregnancy, if clinically indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Edema, flu-like syndrome, abdominal pain, diarrhea, dyspepsia, nausea, ulceration, GI bleed, anemia, headache or insomnia",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Effects of ketamine are increased when combined with other analgesics or muscle relaxants",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "30 sec-4 min (IV<IO<IN<IM)/1-10 min/5-25 min",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Casualty weapons, communications and sensitive equipment should be secured; IV ketamine should be administered slowly over 1 minute; alterations in mental status can adversely affect assessment for shock and/or traumatic brain injury – use AVPU method to establish baseline prior to medication administration; eye injury does not preclude the use of ketamine; medication end points include control of pain or development of nystagmus; increased secretions (be prepared to suction) monitor airway, breathing, and circulation closely – be prepared to support respirations, if indicated.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

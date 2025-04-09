@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANALGESIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "PARACETAMOL (ACETAMINOPHEN)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Non-narcotic analgesic and antipyretic",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by All Service Members (ASM), Combat Lifesavers (CLS) and Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "For mild to moderate pain management with a casualty that is still able to fight.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "500 mg, 2 PO every 8 hours",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "PO",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Acetaminophen hypersensitivity, use with alcohol, considered relatively safe in pregnancy, if clinically indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Rash, nausea, vomiting, dizziness, lethargy, diaphoresis, chills or abdominal pain with acute poisoning, elevated LFTs, hypoglycemia and hepatorenal failure with hepatic toxicity",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Cholestyramine may decrease absorption, barbiturates, carbamazepine, phenytoin, rifampin, and excessive alcohol use may increase potential for hepatotoxicity",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "20-45 min/1-2 hr/3-4 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Minimal to no mission impact; DO NOT give to K-9 casualties.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

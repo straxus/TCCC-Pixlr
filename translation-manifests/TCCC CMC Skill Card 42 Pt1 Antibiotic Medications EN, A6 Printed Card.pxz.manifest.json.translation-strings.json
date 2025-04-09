@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "MOXIFLOXACIN",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Fluoroquinolone antibiotic",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by All Service Members (ASM), Combat Lifesavers (CLS) and Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Recommended for all open combat wounds if able to take PO meds.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "400 mg q day",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "PO",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Quinolone hypersensitivity, hepatic insufficiency, syphilis, arrhythmias, myocardial ischemia or infarction, QTc prolongation, hypokalemia, or those receiving Class IA or Class III antiarrhythmic drugs, potential benefits may warrant use in pregnant women despite potential risks if the alternative is worse",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Dizziness, headache, peripheral neuropathy, nausea, diarrhea, abdominal pain, vomiting, taste perversion, abnormal LFTs, dyspepsia, tendon rupture",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Iron, zinc, antacids, aluminum, magnesium, calcium, and sucralfate decrease absorption, atenolol, cisapride, erythromycin, antipsychotics, TCAs, quinidine, procainamide, amiodarone, sotalol may prolong QTc interval, may cause false positive on opiate screening tests",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "1 hr/2 hr/20-24 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Use the moxifloxacin from the casualty’s own Combat Wound Medication Pack. Minimal to no mission impact.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]
