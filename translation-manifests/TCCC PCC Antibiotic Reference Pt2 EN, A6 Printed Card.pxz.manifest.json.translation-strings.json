@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ERTAPENEM",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Carbapenem, beta-lactam antibiotic",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Recommended for all open combat wounds if unable to take PO meds.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "1 g IV/IO/IM daily",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IV, IO, IM",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Hypersensitivity to carbapenem, beta-lactam, or amide-type local anesthetics (i.e., lidocaine), considered relatively safe in pregnancy, if clinically indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Injection site phlebitis or thrombosis, asthenia, fatigue, death, fever, leg pain, anxiety, altered mental status, dizziness, headache, insomnia, chest pain, hypo- or hypertension, tachycardia, edema, abdominal pain, diarrhea, acid reflux, constipation, dyspepsia, nausea, vomiting, increased LFTs, cough, dyspnea, pharyngitis, rales, rhonchi, respiratory distress, erythema, pruritus, rash",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Probenecid decreases renal excretion",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "30 sec-5 min/30 min-2 hr/24 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: For IV reconstitute with 10 ml NS; for IM 3.2 ml 1.0% lidocaine without epinephrine. Minimal to no mission impact. Can increase seizure risk after penetrating TBI, use if CNS-penetrating antibiotic not available, may not penetrate intact blood-brain barrier. When transitioning from Ertapenem to Moxifloxacin, begin Moxifloxacin immediately after final Ertapenem dose for antibiotic overlap.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

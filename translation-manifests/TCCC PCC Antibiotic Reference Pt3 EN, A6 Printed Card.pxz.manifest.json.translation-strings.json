@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CEPHALEXIN",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Cephalosporin, beta-lactam antibiotic",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Recommended for soft tissue wounds if able to take PO meds and Moxifloxacin unavailable.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "500 mg PO every 6 hours",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "PO",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Known hypersensitivity, prolonged use associated with fungal or bacterial superinfection",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Abdominal pain, agitation, anemia, confusion, diarrhea, elevated transaminases, epidermal necrolysis, erythema multiform, fatigue, gastritis, headache, hypersensitivity, pseudomembranous colitis, thrombocytopenia, toxic epidermal necrolysis, urticaria, vomiting",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "BCG Vaccine (live), cholera vaccine, typhoid vaccine (live), digoxin, estradiol, conjugated estrogens, metformin, probenecid, ticarcillin, warfarin, zinc",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "1 hr/1-2 hr/2-6 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Alternate antibiotic given if Moxifloxacin is unavailable. Minimal to no mission impact.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]
