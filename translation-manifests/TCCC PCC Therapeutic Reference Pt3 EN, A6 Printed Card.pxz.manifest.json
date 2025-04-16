@@ -1,6 +1,6 @@
 {
-  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc201",
-  "name": "PCC ENG Therapeutic Reference, Pt 1 Grinch",
+  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc203",
+  "name": "PCC ENG Therapeutic Reference, Pt 3 Grinch",
   "type": "document",
   "unit": "pixel",
   "width": 7213,
@@ -46,7 +46,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#ea3399"
         }
       }
     },
@@ -68,7 +68,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#ea3399"
         }
       }
     },
@@ -77,9 +77,9 @@
       "type": "shape",
       "rect": {
         "x": 0,
-        "y": 4550,
+        "y": 4350,
         "w": 7213,
-        "h": 550,
+        "h": 750,
         "r": 0
       },
       "opacity": 1,
@@ -90,7 +90,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#ea3399"
         }
       }
     },
@@ -151,7 +151,7 @@
         "x": 100,
         "y": 500,
         "w": 7013,
-        "h": 4080,
+        "h": 4480,
         "r": 0
       },
       "opacity": 1,
@@ -195,13 +195,45 @@
       }
     },
     {
+      "name": "No Comms",
+      "type": "image",
+      "rect": {
+        "x": 6105,
+        "y": 3300,
+        "w": 753,
+        "h": 790,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "no-comms.png"
+    },
+    {
+      "name": "No Guns",
+      "type": "image",
+      "rect": {
+        "x": 6020,
+        "y": 4160,
+        "w": 1000,
+        "h": 750,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "no-guns.png"
+    },
+    {
       "name": "Meds Image",
       "type": "image",
       "rect": {
         "x": 6020,
-        "y": 1340,
+        "y": 1240,
         "w": 1000,
-        "h": 2100,
+        "h": 2000,
         "r": 0
       },
       "opacity": 1,
@@ -211,12 +243,12 @@
       "content": "meds.png"
     },
     {
-      "name": "TRANEXAMIC ACID/TXA..",
+      "name": "DIPHENHYDRAMINE..",
       "type": "text",
       "rect": {
         "x": 80,
         "y": 470,
-        "w": 5500,
+        "w": 4900,
         "h": 351,
         "r": 0
       },
@@ -224,7 +256,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TRANEXAMIC ACID/TXA",
+      "content": "DIPHENHYDRAMINE",
       "format": {
         "size": 400,
         "align": "left",
@@ -254,7 +286,7 @@
       }
     },
     {
-      "name": "Antifibrinolytic agent..",
+      "name": "First generation antihistamine (H1 blocker)..",
       "type": "text",
       "rect": {
         "x": 150,
@@ -267,7 +299,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Antifibrinolytic agent",
+      "content": "First generation antihistamine (H1 blocker)",
       "format": {
         "size": 150,
         "align": "left",
@@ -300,9 +332,9 @@
       "name": "Used by Combat Medics (CM)..",
       "type": "text",
       "rect": {
-        "x": 5600,
+        "x": 5000,
         "y": 520,
-        "w": 1450,
+        "w": 2050,
         "h": 754,
         "r": 0
       },
@@ -340,7 +372,7 @@
       }
     },
     {
-      "name": "Casualties anticipated to need significant..",
+      "name": "For emergent treatment of anaphylaxis or..",
       "type": "text",
       "rect": {
         "x": 200,
@@ -353,7 +385,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Casualties anticipated to need significant blood transfusion; hemorrhagic shock, one or more major amputations, penetrating torso trauma, or evidence of severe bleeding; casualties with signs or symptoms of significant traumatic brain injury or altered metal status associated with blast injury or blunt trauma.",
+      "content": "For emergent treatment of anaphylaxis or allergic reactions and non-emergent treatment of adverse drug reactions.",
       "format": {
         "size": 110,
         "align": "left",
@@ -378,7 +410,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 1770,
+        "y": 1570,
         "w": 1300,
         "h": 330,
         "r": 0
@@ -407,7 +439,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 1770,
+        "y": 1570,
         "w": 500,
         "h": 330,
         "r": 0
@@ -429,7 +461,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 1795,
+        "y": 1595,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -472,7 +504,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 1770,
+        "y": 1570,
         "w": 4420,
         "h": 330,
         "r": 0
@@ -501,7 +533,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 1770,
+        "y": 1570,
         "w": 500,
         "h": 330,
         "r": 0
@@ -519,11 +551,11 @@
       }
     },
     {
-      "name": "2 g IV/IO slow push (1 min)..",
+      "name": "25 mg initial dose, may consider 50..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 1795,
+        "y": 1595,
         "w": 4420,
         "h": 288,
         "r": 0
@@ -532,7 +564,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "2 g IV/IO slow push (1 min)",
+      "content": "25 mg initial dose, may consider 50 mg based on clinical situation; repeat q 4-6 hr prn; max daily dose 300 mg",
       "format": {
         "size": 110,
         "align": "left",
@@ -557,7 +589,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2150,
+        "y": 1950,
         "w": 1300,
         "h": 200,
         "r": 0
@@ -586,7 +618,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2150,
+        "y": 1950,
         "w": 500,
         "h": 200,
         "r": 0
@@ -608,7 +640,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2175,
+        "y": 1975,
         "w": 1280,
         "h": 155,
         "r": 0
@@ -651,7 +683,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2150,
+        "y": 1950,
         "w": 4420,
         "h": 200,
         "r": 0
@@ -680,7 +712,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2150,
+        "y": 1950,
         "w": 500,
         "h": 200,
         "r": 0
@@ -698,11 +730,11 @@
       }
     },
     {
-      "name": "IV, IO..",
+      "name": "IM, IV, IO..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2175,
+        "y": 1975,
         "w": 4420,
         "h": 155,
         "r": 0
@@ -711,7 +743,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "IV, IO",
+      "content": "IM, IV, IO",
       "format": {
         "size": 110,
         "align": "left",
@@ -736,7 +768,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2400,
+        "y": 2200,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -765,7 +797,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2400,
+        "y": 2200,
         "w": 500,
         "h": 460,
         "r": 0
@@ -787,7 +819,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2425,
+        "y": 2225,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -830,7 +862,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2400,
+        "y": 2200,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -859,7 +891,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2400,
+        "y": 2200,
         "w": 500,
         "h": 460,
         "r": 0
@@ -877,11 +909,11 @@
       }
     },
     {
-      "name": "Hypersensitivity to TXA, subarachnoid..",
+      "name": "Documented hypersensitivity to diphenhydramine..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2425,
+        "y": 2225,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -890,7 +922,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Hypersensitivity to TXA, subarachnoid hemorrhage, active intravascular clotting, considered relatively safe in pregnancy, if clinically indicated",
+      "content": "Documented hypersensitivity to diphenhydramine, breastfeeding mothers, use in pregnancy if clearly needed",
       "format": {
         "size": 110,
         "align": "left",
@@ -915,7 +947,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2910,
+        "y": 2710,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -944,7 +976,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2910,
+        "y": 2710,
         "w": 500,
         "h": 460,
         "r": 0
@@ -966,7 +998,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2935,
+        "y": 2735,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -1009,7 +1041,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2910,
+        "y": 2710,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -1038,7 +1070,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2910,
+        "y": 2710,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1056,11 +1088,11 @@
       }
     },
     {
-      "name": "Blurred vision or impaired color..",
+      "name": "Sedation/somnolence/sleepiness, drowsiness..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2935,
+        "y": 2735,
         "w": 4420,
         "h": 126,
         "r": 0
@@ -1069,7 +1101,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Blurred vision or impaired color vision, nausea, vomiting, diarrhea (temporary)",
+      "content": "Sedation/somnolence/sleepiness, drowsiness, unsteadiness, dizziness, headache, rare extrapyramidal effects, tremor, or convulsions",
       "format": {
         "size": 110,
         "align": "left",
@@ -1094,7 +1126,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 3420,
+        "y": 3220,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -1123,7 +1155,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 3420,
+        "y": 3220,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1145,7 +1177,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 3445,
+        "y": 3245,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -1188,7 +1220,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 3420,
+        "y": 3220,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -1217,7 +1249,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 3420,
+        "y": 3220,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1235,11 +1267,11 @@
       }
     },
     {
-      "name": "Factor IX complex concentrates or..",
+      "name": "Accentuates effects of other medications..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 3445,
+        "y": 3245,
         "w": 4420,
         "h": 288,
         "r": 0
@@ -1248,7 +1280,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Factor IX complex concentrates or anti-inhibitor coagulant concentrates (risk of thrombosis may be increased)",
+      "content": "Accentuates effects of other medications that cause drowsiness or decreased level of consciousness (sedatives, hypnotics)",
       "format": {
         "size": 110,
         "align": "left",
@@ -1273,7 +1305,7 @@
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 3980,
+        "y": 3780,
         "w": 1900,
         "h": 112,
         "r": 0
@@ -1312,12 +1344,12 @@
       }
     },
     {
-      "name": "30 sec-5 min/30 min-2 hr/24 hr..",
+      "name": "10 sec-20 min (IV<IO<IM)/15 min-2 hr/2-6 hr..",
       "type": "text",
       "rect": {
         "x": 1700,
-        "y": 3980,
-        "w": 1900,
+        "y": 3780,
+        "w": 3900,
         "h": 112,
         "r": 0
       },
@@ -1325,7 +1357,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "30 sec-5 min/30 min-2 hr/24 hr",
+      "content": "10 sec-20 min (IV<IO<IM)/15 min-2 hr/2-6 hr",
       "format": {
         "size": 110,
         "align": "left",
@@ -1346,12 +1378,12 @@
       }
     },
     {
-      "name": "Administer as soon as possible but not later..",
+      "name": "There is no evidence to support H1‐antihistamines..",
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 4190,
-        "w": 6800,
+        "y": 3990,
+        "w": 5800,
         "h": 215,
         "r": 0
       },
@@ -1359,7 +1391,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TACTICAL CONSIDERATIONS: Administer as soon as possible but not later than 3 hours after injury. Can be safely administered in the same IV/IO line as blood, crystalloid fluids, and Hextend.",
+      "content": "TACTICAL CONSIDERATIONS: There is no evidence to support H1‐antihistamines alone in emergency management of anaphylaxis – diphenhydramine should only be used as an adjunct to epinephrine during anaphylaxis management; the slower onset and longer duration may help sustain effects of successful treatment. Useful for minor reactions that are not life-threatening. Casualty weapons, communications and sensitive equipment should be secured.",
       "format": {
         "size": 110,
         "align": "left",
@@ -1384,7 +1416,7 @@
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 4190,
+        "y": 3990,
         "w": 5820,
         "h": 234,
         "r": 0

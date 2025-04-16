@@ -1,0 +1,78 @@
+[
+  {
+    "content": "THERAPEUTIC MEDICATIONS           (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DIPHENHYDRAMINE",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "First generation antihistamine (H1 blocker)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "For emergent treatment of anaphylaxis or allergic reactions and non-emergent treatment of adverse drug reactions.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "25 mg initial dose, may consider 50 mg based on clinical situation; repeat q 4-6 hr prn; max daily dose 300 mg",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IM, IV, IO",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Documented hypersensitivity to diphenhydramine, breastfeeding mothers, use in pregnancy if clearly needed",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Sedation/somnolence/sleepiness, drowsiness, unsteadiness, dizziness, headache, rare extrapyramidal effects, tremor, or convulsions",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Accentuates effects of other medications that cause drowsiness or decreased level of consciousness (sedatives, hypnotics)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "10 sec-20 min (IV<IO<IM)/15 min-2 hr/2-6 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: There is no evidence to support H1‐antihistamines alone in emergency management of anaphylaxis – diphenhydramine should only be used as an adjunct to epinephrine during anaphylaxis management; the slower onset and longer duration may help sustain effects of successful treatment. Useful for minor reactions that are not life-threatening. Casualty weapons, communications and sensitive equipment should be secured.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

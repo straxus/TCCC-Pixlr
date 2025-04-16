@@ -1,6 +1,6 @@
 {
-  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc201",
-  "name": "PCC ENG Therapeutic Reference, Pt 1 Grinch",
+  "id": "86dcdb38-f2ef-4321-bebe-e8f0bdacc203",
+  "name": "PCC UKR Therapeutic Reference, Pt 3 Grinch",
   "type": "document",
   "unit": "pixel",
   "width": 7213,
@@ -46,7 +46,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#ea3399"
         }
       }
     },
@@ -68,7 +68,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#ea3399"
         }
       }
     },
@@ -77,9 +77,9 @@
       "type": "shape",
       "rect": {
         "x": 0,
-        "y": 4550,
+        "y": 4350,
         "w": 7213,
-        "h": 550,
+        "h": 750,
         "r": 0
       },
       "opacity": 1,
@@ -90,7 +90,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#ea3399"
         }
       }
     },
@@ -111,7 +111,7 @@
       "content": "cmc-logo.png"
     },
     {
-      "name": "THERAPEUTIC MEDICATIONS  ..",
+      "name": "ТЕРАПЕВТИЧНІ ПРЕПАРАТИ  ..",
       "type": "text",
       "rect": {
         "x": 100,
@@ -124,7 +124,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "THERAPEUTIC MEDICATIONS           (REFERENCE)",
+      "content": "ТЕРАПЕВТИЧНІ ПРЕПАРАТИ              (ДОВІДКА)",
       "format": {
         "size": 270,
         "align": "left",
@@ -151,7 +151,7 @@
         "x": 100,
         "y": 500,
         "w": 7013,
-        "h": 4080,
+        "h": 4480,
         "r": 0
       },
       "opacity": 1,
@@ -177,7 +177,7 @@
       "type": "shape",
       "rect": {
         "x": 100,
-        "y": 1180,
+        "y": 1600,
         "w": 7013,
         "h": 40,
         "r": 0
@@ -195,13 +195,45 @@
       }
     },
     {
-      "name": "Meds Image",
+      "name": "No Comms",
+      "type": "image",
+      "rect": {
+        "x": 6105,
+        "y": 3300,
+        "w": 753,
+        "h": 790,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "no-comms.png"
+    },
+    {
+      "name": "No Guns",
       "type": "image",
       "rect": {
         "x": 6020,
-        "y": 1340,
+        "y": 4160,
         "w": 1000,
-        "h": 2100,
+        "h": 750,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "no-guns.png"
+    },
+    {
+      "name": "Meds Image",
+      "type": "image",
+      "rect": {
+        "x": 6145,
+        "y": 1660,
+        "w": 800,
+        "h": 1600,
         "r": 0
       },
       "opacity": 1,
@@ -211,12 +243,12 @@
       "content": "meds.png"
     },
     {
-      "name": "TRANEXAMIC ACID/TXA..",
+      "name": "ДИМЕДРОЛ (ДИФЕНГІДРАМІН)..",
       "type": "text",
       "rect": {
         "x": 80,
         "y": 470,
-        "w": 5500,
+        "w": 4900,
         "h": 351,
         "r": 0
       },
@@ -224,7 +256,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TRANEXAMIC ACID/TXA",
+      "content": "ДИМЕДРОЛ (ДИФЕНГІДРАМІН)",
       "format": {
         "size": 400,
         "align": "left",
@@ -254,12 +286,12 @@
       }
     },
     {
-      "name": "Antifibrinolytic agent..",
+      "name": "Антигістамінний препарат першого покоління (блокатор Н1-рецепторів)..",
       "type": "text",
       "rect": {
         "x": 150,
-        "y": 940,
-        "w": 5000,
+        "y": 1400,
+        "w": 6000,
         "h": 112,
         "r": 0
       },
@@ -267,7 +299,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Antifibrinolytic agent",
+      "content": "Антигістамінний препарат першого покоління (блокатор Н1-рецепторів)",
       "format": {
         "size": 150,
         "align": "left",
@@ -297,12 +329,12 @@
       }
     },
     {
-      "name": "Used by Combat Medics (CM)..",
+      "name": "Використовується бойовими медиками..",
       "type": "text",
       "rect": {
-        "x": 5600,
+        "x": 5000,
         "y": 520,
-        "w": 1450,
+        "w": 2050,
         "h": 754,
         "r": 0
       },
@@ -310,7 +342,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Used by Combat Medics (CM)",
+      "content": "Використовується бойовими медиками",
       "format": {
         "size": 150,
         "align": "left",
@@ -340,11 +372,11 @@
       }
     },
     {
-      "name": "Casualties anticipated to need significant..",
+      "name": "Для екстреного лікування анафілаксії або..",
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 1250,
+        "y": 1650,
         "w": 5820,
         "h": 482,
         "r": 0
@@ -353,7 +385,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Casualties anticipated to need significant blood transfusion; hemorrhagic shock, one or more major amputations, penetrating torso trauma, or evidence of severe bleeding; casualties with signs or symptoms of significant traumatic brain injury or altered metal status associated with blast injury or blunt trauma.",
+      "content": "Для екстреного лікування анафілаксії або алергічних реакцій, а також лікування побічних реакцій на медичні препарати.",
       "format": {
         "size": 110,
         "align": "left",
@@ -378,9 +410,9 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 1770,
+        "y": 1940,
         "w": 1300,
-        "h": 330,
+        "h": 460,
         "r": 0
       },
       "opacity": 1,
@@ -407,9 +439,9 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 1770,
+        "y": 1940,
         "w": 500,
-        "h": 330,
+        "h": 460,
         "r": 0
       },
       "opacity": 1,
@@ -425,11 +457,11 @@
       }
     },
     {
-      "name": "DOSAGE(S):..",
+      "name": "ДОЗУВАННЯ:..",
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 1795,
+        "y": 1965,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -438,7 +470,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "DOSAGE(S):",
+      "content": "ДОЗУВАННЯ:",
       "format": {
         "size": 110,
         "align": "left",
@@ -472,9 +504,9 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 1770,
+        "y": 1940,
         "w": 4420,
-        "h": 330,
+        "h": 460,
         "r": 0
       },
       "opacity": 1,
@@ -501,9 +533,9 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 1770,
+        "y": 1940,
         "w": 500,
-        "h": 330,
+        "h": 460,
         "r": 0
       },
       "opacity": 1,
@@ -519,20 +551,20 @@
       }
     },
     {
-      "name": "2 g IV/IO slow push (1 min)..",
+      "name": "Початкова доза становить 25 мг,..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 1795,
+        "y": 1965,
         "w": 4420,
-        "h": 288,
+        "h": 421,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "2 g IV/IO slow push (1 min)",
+      "content": "Початкова доза становить 25 мг, проте можна розглянути введення 50 мг із врахуванням клінічної ситуації; за потреби повторювати кожні 4-6 год. Максимальна добова доза складає 300 мг.",
       "format": {
         "size": 110,
         "align": "left",
@@ -557,7 +589,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2150,
+        "y": 2450,
         "w": 1300,
         "h": 200,
         "r": 0
@@ -586,7 +618,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2150,
+        "y": 2450,
         "w": 500,
         "h": 200,
         "r": 0
@@ -604,11 +636,11 @@
       }
     },
     {
-      "name": "ROUTE(S):..",
+      "name": "ШЛЯХ(И) ВВЕДЕННЯ:..",
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2175,
+        "y": 2475,
         "w": 1280,
         "h": 155,
         "r": 0
@@ -617,7 +649,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ROUTE(S):",
+      "content": "ШЛЯХ(И) ВВЕДЕННЯ:",
       "format": {
         "size": 110,
         "align": "left",
@@ -651,7 +683,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2150,
+        "y": 2450,
         "w": 4420,
         "h": 200,
         "r": 0
@@ -680,7 +712,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2150,
+        "y": 2450,
         "w": 500,
         "h": 200,
         "r": 0
@@ -698,11 +730,11 @@
       }
     },
     {
-      "name": "IV, IO..",
+      "name": "ВМ, ВК, ВВ...",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2175,
+        "y": 2475,
         "w": 4420,
         "h": 155,
         "r": 0
@@ -711,7 +743,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "IV, IO",
+      "content": "ВМ, ВК, ВВ.",
       "format": {
         "size": 110,
         "align": "left",
@@ -736,9 +768,9 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2400,
+        "y": 2690,
         "w": 1300,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -765,9 +797,9 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2400,
+        "y": 2690,
         "w": 500,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -783,11 +815,11 @@
       }
     },
     {
-      "name": "CONTRA- INDICATIONS:..",
+      "name": "ПРОТИПОКАЗИ:..",
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2425,
+        "y": 2715,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -796,7 +828,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "CONTRA- INDICATIONS:",
+      "content": "ПРОТИПОКАЗИ:",
       "format": {
         "size": 110,
         "align": "left",
@@ -830,9 +862,9 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2400,
+        "y": 2690,
         "w": 4420,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -859,9 +891,9 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2400,
+        "y": 2690,
         "w": 500,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -877,20 +909,20 @@
       }
     },
     {
-      "name": "Hypersensitivity to TXA, subarachnoid..",
+      "name": "Документально підтверджена гіперчутливість..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2425,
+        "y": 2715,
         "w": 4420,
-        "h": 460,
+        "h": 288,
         "r": 0
       },
       "opacity": 1,
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Hypersensitivity to TXA, subarachnoid hemorrhage, active intravascular clotting, considered relatively safe in pregnancy, if clinically indicated",
+      "content": "Документально підтверджена гіперчутливість до димедролу, грудне годування, вагітність (можна використати за крайньої потреби).",
       "format": {
         "size": 110,
         "align": "left",
@@ -915,7 +947,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2910,
+        "y": 3070,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -944,7 +976,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2910,
+        "y": 3070,
         "w": 500,
         "h": 460,
         "r": 0
@@ -962,11 +994,11 @@
       }
     },
     {
-      "name": "POTENTIAL SIDE EFFECTS:..",
+      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ:..",
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2935,
+        "y": 3095,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -975,7 +1007,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "POTENTIAL SIDE EFFECTS:",
+      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ:",
       "format": {
         "size": 110,
         "align": "left",
@@ -1009,7 +1041,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2910,
+        "y": 3070,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -1038,7 +1070,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2910,
+        "y": 3070,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1056,11 +1088,11 @@
       }
     },
     {
-      "name": "Blurred vision or impaired color..",
+      "name": "Седативний ефект/оглушення/сонливість,..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2935,
+        "y": 3095,
         "w": 4420,
         "h": 126,
         "r": 0
@@ -1069,7 +1101,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Blurred vision or impaired color vision, nausea, vomiting, diarrhea (temporary)",
+      "content": "Седативний ефект/оглушення/сонливість, в’ялість, порушення рівноваги, запаморочення, головний біль, рідко екстрапірамідні ефекти, тремор або судоми.",
       "format": {
         "size": 110,
         "align": "left",
@@ -1094,9 +1126,9 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 3420,
+        "y": 3580,
         "w": 1300,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -1123,9 +1155,9 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 3420,
+        "y": 3580,
         "w": 500,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -1141,11 +1173,11 @@
       }
     },
     {
-      "name": "DRUG INTERACTIONS:..",
+      "name": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ:..",
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 3445,
+        "y": 3605,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -1154,7 +1186,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "DRUG INTERACTIONS:",
+      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ:",
       "format": {
         "size": 110,
         "align": "left",
@@ -1188,9 +1220,9 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 3420,
+        "y": 3580,
         "w": 4420,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -1217,9 +1249,9 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 3420,
+        "y": 3580,
         "w": 500,
-        "h": 460,
+        "h": 330,
         "r": 0
       },
       "opacity": 1,
@@ -1235,11 +1267,11 @@
       }
     },
     {
-      "name": "Factor IX complex concentrates or..",
+      "name": "Підсилює дію інших лікарських засобів..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 3445,
+        "y": 3605,
         "w": 4420,
         "h": 288,
         "r": 0
@@ -1248,7 +1280,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Factor IX complex concentrates or anti-inhibitor coagulant concentrates (risk of thrombosis may be increased)",
+      "content": "Підсилює дію інших лікарських засобів, що викликають сонливість або пригнічення свідомості (седативні, снодійні препарати).",
       "format": {
         "size": 110,
         "align": "left",
@@ -1269,7 +1301,7 @@
       }
     },
     {
-      "name": "ONSET/PEAK/DURATION:..",
+      "name": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ:..",
       "type": "text",
       "rect": {
         "x": 200,
@@ -1282,7 +1314,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "ONSET/PEAK/DURATION:",
+      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ:",
       "format": {
         "size": 110,
         "align": "left",
@@ -1312,12 +1344,12 @@
       }
     },
     {
-      "name": "30 sec-5 min/30 min-2 hr/24 hr..",
+      "name": "10 с – 20 хв (ВВ < ВК< ВМ)/ від 15 хв до 2 год/ 2-6 год...",
       "type": "text",
       "rect": {
-        "x": 1700,
+        "x": 2100,
         "y": 3980,
-        "w": 1900,
+        "w": 3900,
         "h": 112,
         "r": 0
       },
@@ -1325,7 +1357,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "30 sec-5 min/30 min-2 hr/24 hr",
+      "content": "10 с – 20 хв (ВВ < ВК< ВМ)/ від 15 хв до 2 год/ 2-6 год.",
       "format": {
         "size": 110,
         "align": "left",
@@ -1346,12 +1378,12 @@
       }
     },
     {
-      "name": "Administer as soon as possible but not later..",
+      "name": "There is no evidence to support H1‐antihistamines..",
       "type": "text",
       "rect": {
         "x": 200,
         "y": 4190,
-        "w": 6800,
+        "w": 5800,
         "h": 215,
         "r": 0
       },
@@ -1359,7 +1391,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TACTICAL CONSIDERATIONS: Administer as soon as possible but not later than 3 hours after injury. Can be safely administered in the same IV/IO line as blood, crystalloid fluids, and Hextend.",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ: Немає жодних доказів щодо використання монотерапії Н1-антигістамінними препаратами при лікуванні анафілактичного стану – димедрол слід використовувати лише як доповнення до адреналіну; повільніший початок та більша тривалість дії димедролу можуть допомогти підтримати лікувальний ефект. Препарат успішно застосовується при лікуванні реакцій, що не загрожують життю. При використанні димедролу у бійців має бути вилучена зброя, засоби зв’язку та інше спеціальне обладнання.",
       "format": {
         "size": 110,
         "align": "left",
@@ -1380,7 +1412,7 @@
       }
     },
     {
-      "name": "TACTICAL CONSIDERATIONS:..",
+      "name": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:..",
       "type": "text",
       "rect": {
         "x": 200,
@@ -1393,7 +1425,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TACTICAL CONSIDERATIONS:",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:",
       "format": {
         "size": 110,
         "align": "left",

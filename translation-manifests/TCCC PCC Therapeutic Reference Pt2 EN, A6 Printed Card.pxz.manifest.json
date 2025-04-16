@@ -1,6 +1,6 @@
 {
-  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc201",
-  "name": "PCC ENG Therapeutic Reference, Pt 1 Grinch",
+  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc202",
+  "name": "PCC ENG Therapeutic Reference, Pt 2 Grinch",
   "type": "document",
   "unit": "pixel",
   "width": 7213,
@@ -46,7 +46,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#bd2cdb"
         }
       }
     },
@@ -68,7 +68,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#bd2cdb"
         }
       }
     },
@@ -77,9 +77,9 @@
       "type": "shape",
       "rect": {
         "x": 0,
-        "y": 4550,
+        "y": 4350,
         "w": 7213,
-        "h": 550,
+        "h": 750,
         "r": 0
       },
       "opacity": 1,
@@ -90,7 +90,7 @@
         "variant": "rectangle",
         "fill": {
           "type": "color",
-          "value": "#911828"
+          "value": "#bd2cdb"
         }
       }
     },
@@ -151,7 +151,7 @@
         "x": 100,
         "y": 500,
         "w": 7013,
-        "h": 4080,
+        "h": 3880,
         "r": 0
       },
       "opacity": 1,
@@ -211,12 +211,12 @@
       "content": "meds.png"
     },
     {
-      "name": "TRANEXAMIC ACID/TXA..",
+      "name": "EPINEPHRINE..",
       "type": "text",
       "rect": {
         "x": 80,
         "y": 470,
-        "w": 5500,
+        "w": 4900,
         "h": 351,
         "r": 0
       },
@@ -224,7 +224,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TRANEXAMIC ACID/TXA",
+      "content": "EPINEPHRINE",
       "format": {
         "size": 400,
         "align": "left",
@@ -254,7 +254,7 @@
       }
     },
     {
-      "name": "Antifibrinolytic agent..",
+      "name": "Sympathomimetic catecholamine..",
       "type": "text",
       "rect": {
         "x": 150,
@@ -267,7 +267,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Antifibrinolytic agent",
+      "content": "Sympathomimetic catecholamine (adrenaline analog)",
       "format": {
         "size": 150,
         "align": "left",
@@ -300,9 +300,9 @@
       "name": "Used by Combat Medics (CM)..",
       "type": "text",
       "rect": {
-        "x": 5600,
+        "x": 5000,
         "y": 520,
-        "w": 1450,
+        "w": 2050,
         "h": 754,
         "r": 0
       },
@@ -340,7 +340,7 @@
       }
     },
     {
-      "name": "Casualties anticipated to need significant..",
+      "name": "For emergency treatment of anaphylaxis..",
       "type": "text",
       "rect": {
         "x": 200,
@@ -353,7 +353,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Casualties anticipated to need significant blood transfusion; hemorrhagic shock, one or more major amputations, penetrating torso trauma, or evidence of severe bleeding; casualties with signs or symptoms of significant traumatic brain injury or altered metal status associated with blast injury or blunt trauma.",
+      "content": "For emergency treatment of anaphylaxis or allergic reactions.",
       "format": {
         "size": 110,
         "align": "left",
@@ -378,7 +378,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 1770,
+        "y": 1470,
         "w": 1300,
         "h": 330,
         "r": 0
@@ -407,7 +407,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 1770,
+        "y": 1470,
         "w": 500,
         "h": 330,
         "r": 0
@@ -429,7 +429,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 1795,
+        "y": 1495,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -472,7 +472,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 1770,
+        "y": 1470,
         "w": 4420,
         "h": 330,
         "r": 0
@@ -501,7 +501,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 1770,
+        "y": 1470,
         "w": 500,
         "h": 330,
         "r": 0
@@ -519,11 +519,11 @@
       }
     },
     {
-      "name": "2 g IV/IO slow push (1 min)..",
+      "name": "0.3 mg (3 ml of 1:1000 solution), repeated..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 1795,
+        "y": 1495,
         "w": 4420,
         "h": 288,
         "r": 0
@@ -532,7 +532,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "2 g IV/IO slow push (1 min)",
+      "content": "0.3 mg (3 ml of 1:1000 solution), repeated every 5 to 10 minutes as necessary",
       "format": {
         "size": 110,
         "align": "left",
@@ -557,7 +557,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2150,
+        "y": 1850,
         "w": 1300,
         "h": 200,
         "r": 0
@@ -586,7 +586,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2150,
+        "y": 1850,
         "w": 500,
         "h": 200,
         "r": 0
@@ -608,7 +608,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2175,
+        "y": 1875,
         "w": 1280,
         "h": 155,
         "r": 0
@@ -651,7 +651,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2150,
+        "y": 1850,
         "w": 4420,
         "h": 200,
         "r": 0
@@ -680,7 +680,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2150,
+        "y": 1850,
         "w": 500,
         "h": 200,
         "r": 0
@@ -698,11 +698,11 @@
       }
     },
     {
-      "name": "IV, IO..",
+      "name": "IM, subcutaneous..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2175,
+        "y": 1875,
         "w": 4420,
         "h": 155,
         "r": 0
@@ -711,7 +711,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "IV, IO",
+      "content": "IM, subcutaneous",
       "format": {
         "size": 110,
         "align": "left",
@@ -736,7 +736,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2400,
+        "y": 2100,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -765,7 +765,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2400,
+        "y": 2100,
         "w": 500,
         "h": 460,
         "r": 0
@@ -787,7 +787,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2425,
+        "y": 2125,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -830,7 +830,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2400,
+        "y": 2100,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -859,7 +859,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2400,
+        "y": 2100,
         "w": 500,
         "h": 460,
         "r": 0
@@ -877,11 +877,11 @@
       }
     },
     {
-      "name": "Hypersensitivity to TXA, subarachnoid..",
+      "name": "None..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2425,
+        "y": 2125,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -890,7 +890,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Hypersensitivity to TXA, subarachnoid hemorrhage, active intravascular clotting, considered relatively safe in pregnancy, if clinically indicated",
+      "content": "None",
       "format": {
         "size": 110,
         "align": "left",
@@ -915,7 +915,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 2910,
+        "y": 2610,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -944,7 +944,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 2910,
+        "y": 2610,
         "w": 500,
         "h": 460,
         "r": 0
@@ -966,7 +966,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 2935,
+        "y": 2635,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -1009,7 +1009,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 2910,
+        "y": 2610,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -1038,7 +1038,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 2910,
+        "y": 2610,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1056,11 +1056,11 @@
       }
     },
     {
-      "name": "Blurred vision or impaired color..",
+      "name": "Anxiety, restlessness, tremor, weakness..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 2935,
+        "y": 2635,
         "w": 4420,
         "h": 126,
         "r": 0
@@ -1069,7 +1069,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Blurred vision or impaired color vision, nausea, vomiting, diarrhea (temporary)",
+      "content": "Anxiety, restlessness, tremor, weakness, dizziness, sweating, palpitations, pallor, nausea and vomiting, headache, disorientation, tachycardia",
       "format": {
         "size": 110,
         "align": "left",
@@ -1094,7 +1094,7 @@
       "type": "shape",
       "rect": {
         "x": 200,
-        "y": 3420,
+        "y": 3120,
         "w": 1300,
         "h": 460,
         "r": 0
@@ -1123,7 +1123,7 @@
       "type": "shape",
       "rect": {
         "x": 1000,
-        "y": 3420,
+        "y": 3120,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1145,7 +1145,7 @@
       "type": "text",
       "rect": {
         "x": 230,
-        "y": 3445,
+        "y": 3145,
         "w": 1240,
         "h": 155,
         "r": 0
@@ -1188,7 +1188,7 @@
       "type": "shape",
       "rect": {
         "x": 1600,
-        "y": 3420,
+        "y": 3120,
         "w": 4420,
         "h": 460,
         "r": 0
@@ -1217,7 +1217,7 @@
       "type": "shape",
       "rect": {
         "x": 1550,
-        "y": 3420,
+        "y": 3120,
         "w": 500,
         "h": 460,
         "r": 0
@@ -1235,11 +1235,11 @@
       }
     },
     {
-      "name": "Factor IX complex concentrates or..",
+      "name": "Antihypertensives reduce the pressor effects..",
       "type": "text",
       "rect": {
         "x": 1580,
-        "y": 3445,
+        "y": 3145,
         "w": 4420,
         "h": 288,
         "r": 0
@@ -1248,7 +1248,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "Factor IX complex concentrates or anti-inhibitor coagulant concentrates (risk of thrombosis may be increased)",
+      "content": "Antihypertensives reduce the pressor effects of epinephrine, thyroid hormones, antihistamines and some anti-arrhythmic medications increase its arrhythmogenic effects",
       "format": {
         "size": 110,
         "align": "left",
@@ -1273,7 +1273,7 @@
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 3980,
+        "y": 3680,
         "w": 1900,
         "h": 112,
         "r": 0
@@ -1316,8 +1316,8 @@
       "type": "text",
       "rect": {
         "x": 1700,
-        "y": 3980,
-        "w": 1900,
+        "y": 3680,
+        "w": 3900,
         "h": 112,
         "r": 0
       },
@@ -1325,7 +1325,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "30 sec-5 min/30 min-2 hr/24 hr",
+      "content": "15-30 sec (IM<subcutaneous)/20 sec-4 min/5-10 min",
       "format": {
         "size": 110,
         "align": "left",
@@ -1346,11 +1346,11 @@
       }
     },
     {
-      "name": "Administer as soon as possible but not later..",
+      "name": "Standard EpiPens deliver the recommended 0.3..",
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 4190,
+        "y": 3890,
         "w": 6800,
         "h": 215,
         "r": 0
@@ -1359,7 +1359,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "TACTICAL CONSIDERATIONS: Administer as soon as possible but not later than 3 hours after injury. Can be safely administered in the same IV/IO line as blood, crystalloid fluids, and Hextend.",
+      "content": "TACTICAL CONSIDERATIONS: Standard EpiPens deliver the recommended 0.3 mg IM dose. Casualties in hemorrhagic shock have poor tissue perfusion to their extremities reducing the delivery of epinephrine; use large muscle groups closest to the torso (in order of preference: thigh > deltoid > gluteal).",
       "format": {
         "size": 110,
         "align": "left",
@@ -1384,7 +1384,7 @@
       "type": "text",
       "rect": {
         "x": 200,
-        "y": 4190,
+        "y": 3890,
         "w": 5820,
         "h": 234,
         "r": 0
