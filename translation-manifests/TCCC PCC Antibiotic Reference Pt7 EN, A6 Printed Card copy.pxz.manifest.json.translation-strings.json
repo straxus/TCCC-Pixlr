@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CEFTRIAXONE",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Cephalosporin, beta-lactam antibiotic, CNS-penetrating",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Recommended for all open combat wounds if unable to take PO meds and Ertapenem unavailable, or if CNS penetration required.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "2 g IV/IO slow push (5 min) every 24 hours;\n2 g IM deep intragluteal every 24 hours, max 1 g per injection site",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IV, IO, IM",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Known hypersensitivity, associate with tendinitis and tendon ruptures - discontinue if any muscle or tendon/ligament pain occurs",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Anaphylaxis, anemia, bronchospasm, candidiasis, diaphoresis, dizziness, induration folliwng IM injection, eosinophilia, headache, leukocytosis, nausea, phlebitis, pruritis, thrombocytosis, diarrhea, elevated transaminases, leukopenia, rash",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Calcium (acetate, carbonate, chloride, citrate, or gluconate), BCG vaccine (live), enoxaparin, heparin, typohoid vaccine (live), consider lidocaine max dose if used as solvent for IM injection",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "30 sec-5 min (IV<IO<IM)/30 min-2 hr/24 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Alternate antibiotic given if Ertapenem is unavailable. Minimal to no mission impact, unless dizziness as side effect occurs. Recommended for treatments requiring CNS penetration. For IV/IO reconstitute with 19.2 ml Sterile Water for Injection; for IM 4.4 ml 1.0% lidocaine without epinephrine. Do NOT mix with any calcium-containing solution e.g. Ringer's solution or Ringer's Lactate, will cause particulate formation.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]
