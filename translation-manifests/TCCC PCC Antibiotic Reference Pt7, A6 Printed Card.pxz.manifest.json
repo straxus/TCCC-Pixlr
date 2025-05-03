@@ -1,0 +1,1426 @@
+{
+  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc107",
+  "name": "PCC UKR Antibiotic Reference, Pt 7 Grinch",
+  "type": "document",
+  "unit": "pixel",
+  "width": 7213,
+  "height": 5100,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 7213,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Card Left Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#40b838"
+        }
+      }
+    },
+    {
+      "name": "Card Right Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 7113,
+        "y": 0,
+        "w": 100,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#40b838"
+        }
+      }
+    },
+    {
+      "name": "Card Bottom Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 4550,
+        "w": 7213,
+        "h": 550,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#40b838"
+        }
+      }
+    },
+    {
+      "name": "CMC Logo",
+      "type": "image",
+      "rect": {
+        "x": 6230,
+        "y": 0,
+        "w": 870,
+        "h": 500,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "cmc-logo.png"
+    },
+    {
+      "name": "ЗАСТОСУВАННЯ АНТИБІОТИКІВ (..",
+      "type": "text",
+      "rect": {
+        "x": 100,
+        "y": 85,
+        "w": 6200,
+        "h": 280,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЗАСТОСУВАННЯ АНТИБІОТИКІВ (ДОВІДКА)",
+      "format": {
+        "size": 270,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Outer Border",
+      "type": "shape",
+      "rect": {
+        "x": 100,
+        "y": 500,
+        "w": 7013,
+        "h": 4500,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 40,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Header Bottom Line",
+      "type": "shape",
+      "rect": {
+        "x": 100,
+        "y": 1100,
+        "w": 7013,
+        "h": 40,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Meds Image",
+      "type": "image",
+      "rect": {
+        "x": 6030,
+        "y": 1170,
+        "w": 1000,
+        "h": 2100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "meds.png"
+    },
+    {
+      "name": "ЦЕФТРІАКСОН..",
+      "type": "text",
+      "rect": {
+        "x": 80,
+        "y": 470,
+        "w": 4900,
+        "h": 351,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ЦЕФТРІАКСОН",
+      "format": {
+        "size": 400,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0.1,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Цефалоспорин, бета-лактамний антибіотик, що проникає в ЦНС..",
+      "type": "text",
+      "rect": {
+        "x": 150,
+        "y": 890,
+        "w": 5200,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Цефалоспорин, бета-лактамний антибіотик, що проникає в ЦНС",
+      "format": {
+        "size": 150,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Використовується всіма ві..",
+      "type": "text",
+      "rect": {
+        "x": 5300,
+        "y": 570,
+        "w": 1750,
+        "h": 754,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Використовується бойовими медиками",
+      "format": {
+        "size": 150,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Рекомендований при всіх відкритих бойових ранах..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 1200,
+        "w": 5500,
+        "h": 264,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Рекомендований при всіх відкритих бойових ранах, якщо неможливо приймати препарати перорально, а ертапенем недоступний; також якщо потрібне проникнення в ЦНС.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.1,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 1490,
+        "w": 1300,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 1490,
+        "w": 500,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "ДОЗУВАННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 1515,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ДОЗУВАННЯ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 1490,
+        "w": 4420,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 1490,
+        "w": 500,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "2 г ВВ/ВК повільно (5 хв) кожні 24 години;..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 1515,
+        "w": 4420,
+        "h": 687,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "2 г ВВ/ВК повільно (5 хв) кожні 24 години;\n2 г ВМ глибоко в сідничний м’яз кожні 24 години, максимум 1 г на місце ін’єкції",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 2000,
+        "w": 1300,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 2000,
+        "w": 500,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "ШЛЯХ(И) ВВЕДЕННЯ:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 2025,
+        "w": 1280,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ШЛЯХ(И) ВВЕДЕННЯ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 2000,
+        "w": 4420,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 2000,
+        "w": 500,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "ВВ, ВК, ВМ..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 2025,
+        "w": 4420,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВВ, ВК, ВМ",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 2250,
+        "w": 1300,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 2250,
+        "w": 500,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "ПРОТИПОКАЗИ:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 2275,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПРОТИПОКАЗИ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 2250,
+        "w": 4420,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 2250,
+        "w": 500,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Відома гіперчутливість; асоційований з розвитком..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 2275,
+        "w": 4420,
+        "h": 421,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Відома гіперчутливість; асоційований з розвитком тендиніту і розривами сухожиль – припинити застосування, якщо виникне біль у м'язах або сухожиллях/зв'язках",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 2760,
+        "w": 1300,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 2760,
+        "w": 500,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "МОЖЛИВІ ПОБІЧНІ ДІЇ:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 2785,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "МОЖЛИВІ ПОБІЧНІ ДІЇ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 2760,
+        "w": 4420,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 2760,
+        "w": 500,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Анафілаксія, анемія, бронхоспазм, кандидоз..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 2785,
+        "w": 4420,
+        "h": 554,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Анафілаксія, анемія, бронхоспазм, кандидоз, пітливість, запаморочення, ущільнення в місці внутрішньом'язової ін'єкції, еозинофілія, головний біль, лейкоцитоз, нудота, флебіт, свербіж, тромбоцитоз, діарея, підвищення рівня трансаміназ, лейкопенія, висип",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 3400,
+        "w": 1300,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 3400,
+        "w": 500,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 3425,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ВЗАЄМОДІЯ З ІНШИМИ ЛІКАМИ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 3400,
+        "w": 4420,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 3400,
+        "w": 500,
+        "h": 590,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Кальцій (ацетат, карбонат, хлорид, цитрат..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 3425,
+        "w": 4420,
+        "h": 554,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Кальцій (ацетат, карбонат, хлорид, цитрат або глюконат), вакцина БЦЖ (жива), еноксапарин, гепарин, вакцина проти черевного тифу (жива), враховуйте дозу лідокаїну, якщо використовуєте його як розчинник для внутрішньом’язової ін’єкції",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІ..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4120,
+        "w": 1900,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ПОЧАТОК/ПІК/ТРИВАЛІСТЬ ДІЇ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": true,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#222222",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "30 с-5 хв (ВВ<ВК<ВМ)/30 хв-2 год/24 год..",
+      "type": "text",
+      "rect": {
+        "x": 2100,
+        "y": 4120,
+        "w": 3300,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "30 с-5 хв (ВВ<ВК<ВМ)/30 хв-2 год/24 год",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Альтернативний антибіотик, якщо ертапенем недоступний..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4370,
+        "w": 6900,
+        "h": 918,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ: Альтернативний антибіотик, якщо ертапенем недоступний. Мінімальний або відсутній вплив на виконання бойового завдання, окрім випадків виникнення запаморочення як побічного ефекту. Рекомендоваий для лікування, що вимагає проникнення в ЦНС. Для ВВ/ВК введення розводити 19,2 мл стерильної води для ін'єкцій; для ВМ введення 4,4 мл 1,0% лідокаїну (без адреналіну). НЕ змішувати з розчинами, що містять кальцій, наприклад, розчином Рінгера або лактатом Рінгера (це призведе до утворення осаду).",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ ..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4370,
+        "w": 5820,
+        "h": 234,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ОСОБЛИВОСТІ ВИКОРИСТАННЯ В ТАКТИЧНИХ УМОВАХ:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": true,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#222222",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    }
+  ]
+}
