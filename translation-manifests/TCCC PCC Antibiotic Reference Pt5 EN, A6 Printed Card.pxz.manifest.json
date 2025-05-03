@@ -1235,7 +1235,7 @@
       }
     },
     {
-      "name": "NBCG vaccine (live), bivalirudin, cholera vaccine..",
+      "name": "BCG vaccine (live), bivalirudin, cholera vaccine..",
       "type": "text",
       "rect": {
         "x": 1580,
@@ -1248,7 +1248,7 @@
       "locked": false,
       "visible": true,
       "link": "",
-      "content": "NBCG vaccine (live), bivalirudin, cholera vaccine, dalteparin, enoxaparin, heparin, typhoid vaccine (live)",
+      "content": "BCG vaccine (live), bivalirudin, cholera vaccine, dalteparin, enoxaparin, heparin, typhoid vaccine (live)",
       "format": {
         "size": 110,
         "align": "left",
