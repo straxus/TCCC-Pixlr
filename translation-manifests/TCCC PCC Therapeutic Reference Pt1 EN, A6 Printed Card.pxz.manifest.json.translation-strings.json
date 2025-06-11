@@ -1,0 +1,78 @@
+[
+  {
+    "content": "THERAPEUTIC MEDICATIONS           (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TRANEXAMIC ACID/TXA",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Antifibrinolytic agent",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Casualties anticipated to need significant blood transfusion; hemorrhagic shock, one or more major amputations, penetrating torso trauma, or evidence of severe bleeding; casualties with signs or symptoms of significant traumatic brain injury or altered metal status associated with blast injury or blunt trauma.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "2 g IV/IO slow push (1 min)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IV, IO",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Hypersensitivity to TXA, subarachnoid hemorrhage, active intravascular clotting, considered relatively safe in pregnancy, if clinically indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Blurred vision or impaired color vision, nausea, vomiting, diarrhea (temporary)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Factor IX complex concentrates or anti-inhibitor coagulant concentrates (risk of thrombosis may be increased)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "30 sec-5 min/30 min-2 hr/24 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Administer as soon as possible but not later than 3 hours after injury. Can be safely administered in the same IV/IO line as blood, crystalloid fluids, and Hextend.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

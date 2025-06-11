@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "SULFAMETHOXAZOLE/ TRIMETHOPRIM (BACTRIM DS)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Combination sulfonamide/antifolate antibiotic",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Recommended for soft tissue wounds if able to take PO meds and Moxifloxacin unavailable.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "800 mg/160 mg PO every 12 hours",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "PO",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Known hypersensitivity, known megaloblastic or folate deficiency anemia, pregnant women at term and nursing mothers",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Anorexia, nausea, vomiting, vertigo, seizure, peripheral neuritis, erythema multiforme, hyperkalemia, rash, urticaria, hypersensitivity reaction, Stevens-Johnson syndrome, toxic epidermal necrolysis, agranulocytosis, aplastic anemia, hyponatremia, fulminate hepatic necrosis",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Amiodarone, BCG vaccine (live), bivalirudin, cholera vaccine, disopyramine, enoxaparin, heparin, lopinavir, mefloquine, methotrexate, procainamide, quinidine, sotalol, tretinoin",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "1-4 hr/1-4 hr/12 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Alternate antibiotic given if Moxifloxacin is unavailable. Minimal to no mission impact.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

@@ -1,0 +1,1426 @@
+{
+  "id": "86dcdb38-f2ef-4321-bebe-e8f0bd3cc101",
+  "name": "PCC ENG Antibiotic Reference, Pt 1 Grinch",
+  "type": "document",
+  "unit": "pixel",
+  "width": 7213,
+  "height": 5100,
+  "stack": [
+    {
+      "name": "Background",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 7213,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      }
+    },
+    {
+      "name": "Card Left Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#296999"
+        }
+      }
+    },
+    {
+      "name": "Card Right Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 7113,
+        "y": 0,
+        "w": 100,
+        "h": 5100,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#296999"
+        }
+      }
+    },
+    {
+      "name": "Card Bottom Colour Border",
+      "type": "shape",
+      "rect": {
+        "x": 0,
+        "y": 4550,
+        "w": 7213,
+        "h": 550,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#296999"
+        }
+      }
+    },
+    {
+      "name": "CMC Logo",
+      "type": "image",
+      "rect": {
+        "x": 6230,
+        "y": 0,
+        "w": 870,
+        "h": 500,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "cmc-logo.png"
+    },
+    {
+      "name": "ANTIBIOTIC MEDICATIONS (..",
+      "type": "text",
+      "rect": {
+        "x": 100,
+        "y": 85,
+        "w": 6200,
+        "h": 280,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+      "format": {
+        "size": 270,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Outer Border",
+      "type": "shape",
+      "rect": {
+        "x": 100,
+        "y": 500,
+        "w": 7013,
+        "h": 4380,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 40,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Header Bottom Line",
+      "type": "shape",
+      "rect": {
+        "x": 100,
+        "y": 1270,
+        "w": 7013,
+        "h": 40,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Meds Image",
+      "type": "image",
+      "rect": {
+        "x": 6020,
+        "y": 1340,
+        "w": 1000,
+        "h": 600,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "meds.png"
+    },
+    {
+      "name": "MOXIFLOXACIN..",
+      "type": "text",
+      "rect": {
+        "x": 80,
+        "y": 470,
+        "w": 4900,
+        "h": 351,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "MOXIFLOXACIN",
+      "format": {
+        "size": 400,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0.1,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Fluoroquinolone antibiotic..",
+      "type": "text",
+      "rect": {
+        "x": 150,
+        "y": 890,
+        "w": 4500,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Fluoroquinolone antibiotic",
+      "format": {
+        "size": 150,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Used by All Service Members..",
+      "type": "text",
+      "rect": {
+        "x": 5000,
+        "y": 520,
+        "w": 2050,
+        "h": 754,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Used by All Service Members (ASM), Combat Lifesavers (CLS) and Combat Medics (CM)",
+      "format": {
+        "size": 150,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#000000",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Recommended for all open combat..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 1340,
+        "w": 5820,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Recommended for all open combat wounds if able to take PO meds.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 1570,
+        "w": 1300,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 1570,
+        "w": 500,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "DOSAGE(S):..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 1595,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "DOSAGE(S):",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 1570,
+        "w": 4420,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 1 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 1570,
+        "w": 500,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "400 mg PO daily..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 1595,
+        "w": 4420,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "400 mg PO daily",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 1820,
+        "w": 1300,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 1820,
+        "w": 500,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "ROUTE(S):..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 1845,
+        "w": 1280,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ROUTE(S):",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 1820,
+        "w": 4420,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 2 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 1820,
+        "w": 500,
+        "h": 200,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "PO..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 1845,
+        "w": 4420,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "PO",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 2070,
+        "w": 1300,
+        "h": 890,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 2070,
+        "w": 500,
+        "h": 890,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "CONTRA- INDICATIONS:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 2095,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "CONTRA- INDICATIONS:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 2070,
+        "w": 4420,
+        "h": 890,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 3 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 2070,
+        "w": 500,
+        "h": 890,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Quinolone hypersensitivity, hepatic..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 2095,
+        "w": 4420,
+        "h": 820,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Quinolone hypersensitivity, hepatic insufficiency, syphilis, arrhythmias, myocardial ischemia or infarction, QTc prolongation, hypokalemia, or those receiving Class IA or Class III antiarrhythmic drugs, potential benefits may warrant use in pregnant women despite potential risks if the alternative is worse",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 3010,
+        "w": 1300,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 3010,
+        "w": 500,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "POTENTIAL SIDE EFFECTS:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 3035,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "POTENTIAL SIDE EFFECTS:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 3010,
+        "w": 4420,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 4 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 3010,
+        "w": 500,
+        "h": 460,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Dizziness, headache, peripheral neuropathy..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 3035,
+        "w": 4420,
+        "h": 126,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Dizziness, headache, peripheral neuropathy, nausea, diarrhea, abdominal pain, vomiting, taste perversion, abnormal LFTs, dyspepsia, tendon rupture",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Outer Header",
+      "type": "shape",
+      "rect": {
+        "x": 200,
+        "y": 3520,
+        "w": 1300,
+        "h": 720,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#222222"
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Header Block",
+      "type": "shape",
+      "rect": {
+        "x": 1000,
+        "y": 3520,
+        "w": 500,
+        "h": 720,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      }
+    },
+    {
+      "name": "DRUG INTERACTIONS:..",
+      "type": "text",
+      "rect": {
+        "x": 230,
+        "y": 3545,
+        "w": 1240,
+        "h": 155,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "DRUG INTERACTIONS:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#ffffff",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Outer Value",
+      "type": "shape",
+      "rect": {
+        "x": 1600,
+        "y": 3520,
+        "w": 4420,
+        "h": 720,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rounded",
+        "radii": 50,
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 1,
+          "color": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Card Row 5 Value Block",
+      "type": "shape",
+      "rect": {
+        "x": 1550,
+        "y": 3520,
+        "w": 500,
+        "h": 720,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "format": {
+        "variant": "rectangle",
+        "fill": {
+          "type": "color",
+          "value": "#eeeeee"
+        }
+      }
+    },
+    {
+      "name": "Iron, zinc, antacids, aluminum, magnesium..",
+      "type": "text",
+      "rect": {
+        "x": 1580,
+        "y": 3545,
+        "w": 4420,
+        "h": 687,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "Iron, zinc, antacids, aluminum, magnesium, calcium, and sucralfate decrease absorption, atenolol, cisapride, erythromycin, antipsychotics, TCAs, quinidine, procainamide, amiodarone, sotalol may prolong QTc interval, may cause false positive on opiate screening tests",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "ONSET/PEAK/DURATION:..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4320,
+        "w": 1900,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "ONSET/PEAK/DURATION:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": true,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#222222",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    },
+    {
+      "name": "1 hr/2 hr/20-24 hr..",
+      "type": "text",
+      "rect": {
+        "x": 1700,
+        "y": 4320,
+        "w": 1900,
+        "h": 112,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "1 hr/2 hr/20-24 hr",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": 0,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "Use the moxifloxacin from the..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4530,
+        "w": 6800,
+        "h": 215,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "TACTICAL CONSIDERATIONS: Use the moxifloxacin from the casualty’s own Combat Wound Medication Pack. Minimal to no mission impact. Can increase seizure risk after penetrating TBI, use if CNS-penetrating antibiotic not available.",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#000000"
+        }
+      }
+    },
+    {
+      "name": "TACTICAL CONSIDERATIONS:..",
+      "type": "text",
+      "rect": {
+        "x": 200,
+        "y": 4530,
+        "w": 5820,
+        "h": 234,
+        "r": 0
+      },
+      "opacity": 1,
+      "locked": false,
+      "visible": true,
+      "link": "",
+      "content": "TACTICAL CONSIDERATIONS:",
+      "format": {
+        "size": 110,
+        "align": "left",
+        "bold": true,
+        "italic": false,
+        "underline": true,
+        "uppercase": false,
+        "linespace": -0.22,
+        "letterspace": 0,
+        "font": {
+          "name": "Verdana",
+          "content": "verdana.woff"
+        },
+        "fill": {
+          "type": "color",
+          "value": "#222222"
+        }
+      },
+      "style": {
+        "outline": {
+          "size": 0.1,
+          "color": "#222222",
+          "punch": false,
+          "distance": 0,
+          "direction": 305
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANALGESIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONDANSETRON",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Antiemetic (5-HT3 antagonist)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Prevention and management of nausea and vomiting associated with pain management medications.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "4 mg q 8 hrs, repeat after 15 min for persistent symptoms, no more than 8 mg/8 hr time block",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IV, IO, Translingual, IM",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Hypersensitivity to ondansetron, use cautiously in patients with hepatic failure, considered relatively safe in pregnancy, if clinically indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Dizziness, lightheadedness, headache, sedation, diarrhea, constipation, dry mouth",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Rifampin may decrease ondansetron levels",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "20 sec-4 min (IV<IO<translingual<IM)/10-40 min/4 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Do not use PO (pill form) – use translingual with the oral dissolving tablet (oral ondansetron is NOT an acceptable alternative to the ODT formulation); do not handle ODT preparation with wet hands; IV and IO should be given by slow push.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

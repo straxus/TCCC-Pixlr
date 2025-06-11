@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANTIBIOTIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CEFAZOLIN",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Cephalosporin, beta-lactam antibiotic, CNS-penetrating",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Recommended for all open combat wounds if unable to take PO meds and Ertapenem unavailable, or if CNS penetration required.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "2 g IV/IO slow push (3-5 min) or IM, every 6-8 hours",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IV, IO, IM",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Known hypersensitivity, use with caution in those with seizure disorder",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Anorexia, diarrhea, eosinophilia, fever, increased transaminases, leukopenia, nausea and vomiting, neutropenia, oral candidiasis, phlebitis, pseudomembranous colitis, seizure, Stevens-Johnson syndrome, thrombocytopenia, thrombocytosis, vaginitis",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "BCG vaccine (live), bivalirudin, cholera vaccine, dalteparin, enoxaparin, heparin, typhoid vaccine (live)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "30 min-1 hr/1-2 hr/2-6 hr",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: Alternate antibiotic given if Ertapenem is unavailable. Minimal to no mission impact. Recommended for treatments requiring CNS penetration. Reconstitute with Sterile Water for Injection, 5ml for IM or 10ml for IV/IO bolus, and shake to dissolve all powder.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]

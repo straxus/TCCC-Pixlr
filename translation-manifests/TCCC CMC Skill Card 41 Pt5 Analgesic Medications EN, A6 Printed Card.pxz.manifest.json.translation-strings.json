@@ -1,0 +1,78 @@
+[
+  {
+    "content": "ANALGESIC MEDICATIONS (REFERENCE)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "NALOXONE",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Narcotic (opiate) antagonist",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "Used by Combat Medics (CM)",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "For narcotic opiate overdose and reversal of effects, including respiratory depression, sedation, and hypotension.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DOSAGE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "0.4-2 mg IV, IN or IM; repeat every 2-3 min to a max dose of 10 mg, as indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ROUTE(S):",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "IV, IN, IM",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "CONTRA- INDICATIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Hypersensitivity to naloxone, use cautiously in patients with cardiac irritability, considered relatively safe in pregnancy, if clinically indicated",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "POTENTIAL SIDE EFFECTS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Analgesia reversal, tremors, hyperventilation, drowsiness, sweating, increased BP, tachycardia, nausea, vomiting",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "DRUG INTERACTIONS:",
+    "fillValue": "#ffffff"
+  },
+  {
+    "content": "Cardiotoxic drugs (may cause serious CV effects) – use together cautiously, reverses analgesic effects of narcotic (opiate) agonists",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "ONSET/PEAK/DURATION:",
+    "fillValue": "#222222"
+  },
+  {
+    "content": "1-2 min/5-15 min/variable",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS: An overdose of naloxone is unlikely if used as indicated; naloxone should be readily available anytime narcotics are being administered; titrate to effect (resolving narcotic overdose signs and symptoms) but continue to manage casualty’s pain; naloxone may wear off prior to opiate – observe closely for signs of recurrent opiate overdose.",
+    "fillValue": "#000000"
+  },
+  {
+    "content": "TACTICAL CONSIDERATIONS:",
+    "fillValue": "#222222"
+  }
+]
